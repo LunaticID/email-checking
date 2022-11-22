@@ -24,15 +24,7 @@ func main() {
 }
 
 func checkDomain(domain string) {
-eaweeaease
-	asraweae
-	aessadeada
-	asdada
-	adadsa
-	df
-	asdaf
-	
-	asdead
+
 	
 	var hasMX, hasSPF, hasDMARC bool
 	var spfRecord, dmarcRecord string
@@ -76,3 +68,4 @@ eaweeaease
 
 	fmt.Printf("%v, %v, %v, %v, %v, %v", domain, hasMX, hasSPF, spfRecord, hasDMARC, dmarcRecord)
 }
+// this code is use to email checking
