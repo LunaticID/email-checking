@@ -24,7 +24,16 @@ func main() {
 }
 
 func checkDomain(domain string) {
-
+eaweeaease
+	asraweae
+	aessadeada
+	asdada
+	adadsa
+	df
+	asdaf
+	
+	asdead
+	
 	var hasMX, hasSPF, hasDMARC bool
 	var spfRecord, dmarcRecord string
 
